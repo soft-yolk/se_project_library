@@ -257,7 +257,7 @@
 }
 
 /* Add the CSS rule for your new class here. Make sure to place it before .card: parents should precede their children */
-.staff__content {
+.staff__cards {
   max-width: 760px;
   display: flex;
   margin-top: 68px;
