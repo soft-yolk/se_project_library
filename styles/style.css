@@ -4,7 +4,7 @@
   font-size: 16px;
   line-height: 20px;
   margin: 0 auto;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Helvetica Neue, Arial, sans-serif;
 }
 
 .header {
@@ -261,9 +261,7 @@
 .staff__cards {
   max-width: 760px;
   display: flex;
-  margin-top: 68px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 68px auto 0;
   flex-wrap: wrap;
   gap: 40px;
   padding-left: 0;
@@ -465,4 +463,5 @@
 
 .footer__copyright {
   margin-top: 108px;
+  margin-bottom: 0;
 }
